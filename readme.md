@@ -70,3 +70,7 @@ salida:
 ```
 
 Y listo en este [link](http://localhost:3000/graphiql) puedes ejecutar las querys por ahora solo { holaMundo }
+
+
+robomongo cd /usr/local/bin/robomongo/bin
+./robomongo
